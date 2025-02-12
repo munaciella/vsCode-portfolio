@@ -5,26 +5,26 @@
     "image": "https://imgur.com/mKkz0iz.png",
     "description": "A themeable and developer-centric portfolio based on VSCode",
     "tags": ["next", "css", "javascript"],
-    "source_code": "",
-    "demo": ""
+    "source_code": "https://github.com/munaciella/vsCode-portfolio",
+    "demo": "https://francesco-vscode.vercel.app/"
   },
   {
     "id": 2,
-    "name": "VSCode Portfolio",
+    "name": "GitHub Profile",
     "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on VSCode",
-    "tags": ["next", "css", "javascript"],
-    "source_code": "",
-    "demo": ""
+    "description": "A customisable and themeable portfolio based on GitHub profile",
+    "tags": ["react", "tailwindcss", "typescript"],
+    "source_code": "https://github.com/munaciella/munaciella.github.io",
+    "demo": "https://munaciella.github.io/"
   },
   {
     "id": 3,
-    "name": "VSCode Portfolio",
+    "name": "3D Portfolio",
     "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on VSCode",
-    "tags": ["next", "css", "javascript"],
-    "source_code": "",
-    "demo": ""
+    "description": "A 3D portfolio based on Three.js",
+    "tags": ["react", "tailwindcss", "threejs", "javascript"],
+    "source_code": "https://github.com/munaciella/3d_portfolio",
+    "demo": "https://francescovurchio-dev.netlify.app/"
   },
   {
     "id": 4,
@@ -82,6 +82,15 @@
   },
   {
     "id": 10,
+    "name": "VSCode Portfolio",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "A themeable and developer-centric portfolio based on VSCode",
+    "tags": ["next", "css", "javascript"],
+    "source_code": "",
+    "demo": ""
+  },
+  {
+    "id": 11,
     "name": "VSCode Portfolio",
     "image": "https://imgur.com/mKkz0iz.png",
     "description": "A themeable and developer-centric portfolio based on VSCode",

@@ -30,31 +30,31 @@
   background: rgba(67, 153, 52, 0.25);
 }
 
-.redux {
+.firebase {
   border: 0.1rem solid rgb(118, 74, 188);
 }
-.redux:hover {
+.firebase:hover {
   background: rgba(118, 74, 188, 0.25);
 }
 
-.razorpay {
+.cloudflare {
   border: 0.1rem solid rgb(82, 143, 240);
 }
-.razorpay:hover {
+.cloudflare:hover {
   background: rgba(82, 143, 240, 0.25);
 }
 
-.material-ui {
-  border: 0.1rem solid rgb(25, 118, 210);
+.supabase {
+  border: 0.1rem solid rgb(6, 108, 65);
 }
-.material-ui:hover {
-  background: rgba(25, 118, 210, 0.25);
+.supabase:hover {
+  background: rgba(6, 108, 65, 0.25);
 }
 
-.bulma {
+.threejs {
   border: 0.1rem solid rgb(0, 209, 178);
 }
-.bulma:hover {
+.threejs:hover {
   background: rgb(0, 209, 178, 0.25);
 }
 
@@ -65,23 +65,39 @@
   background: rgba(0, 112, 243, 0.25);
 }
 
-.tailwind {
+.tailwindcss {
   border: 2px solid rgb(6, 182, 212);
 }
-.tailwind:hover {
+.tailwindcss:hover {
   background: rgba(6, 182, 212, 0.25);
 }
 
-.react-query {
+.javascript {
   border: 2px solid rgb(255, 65, 84);
 }
-.react-query:hover {
+.javascript:hover {
   background: rgba(255, 65, 84, 0.25);
 }
 
-.css-modules {
+.typescript {
+  border: 2px solid rgb(45, 108, 214);
+}
+.typescript:hover {
+  background: rgba(45, 108, 214, 0.25);
+}
+
+.css {
   border: 2px solid rgb(21, 114, 182);
 }
-.css-modules:hover {
+.css:hover {
   background: rgba(21, 114, 182, 0.25);
 }
+
+.liveblocks {
+  border: 2px solid rgb(0, 166, 107);
+}
+.liveblocks:hover {
+  background: rgba(0, 166, 107, 0.25);
+}
+
+
