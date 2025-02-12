@@ -1,0 +1,67 @@
+.container {
+    display: flex;
+    gap: 2rem;
+    max-width: 1200px; /* Increased max-width for more space */
+    margin: 0 auto;
+    padding: 0rem;
+  }
+  
+  .container > * {
+    flex: 1;
+  }
+  
+  .container > div:first-child {
+    border-right: 1px solid var(--accent-color);
+    padding-right: 2rem; /* Adds spacing between the text and the line */
+  }
+  
+  .heading {
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+    color: var(--text-color);
+  }
+  
+  .paragraph {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: var(--text-color);
+    margin-bottom: 1rem;
+  }
+  
+  .profileImage {
+    max-width: 80%;
+    height: auto;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  /* Responsive Styles */
+  @media screen and (max-width: 1200px) {
+    .container {
+      display: block;
+      text-align: center;
+    }
+  
+    .container > div:first-child {
+      border-right: none;
+      margin-bottom: 2.5rem;
+    }
+  }
+  
+  @media screen and (max-width: 600px) {
+    .paragraph {
+      font-size: 0.95rem;
+      line-height: 1.5;
+    }
+  }
+
+  @media screen and (min-width: 1200px) {
+    .profileImage {
+      max-width: 80%; /* Adjust the width as needed */
+      margin-left: auto;
+      margin-right: auto;
+      display: block; /* Ensures the image is block-level for centering */
+    }
+}

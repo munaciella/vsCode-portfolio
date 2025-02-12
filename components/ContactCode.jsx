@@ -36,11 +36,6 @@ const contactItems = [
     link: 'neonrats',
     href: 'https://www.instagram.com/neonrats',
   },
-  {
-    social: 'polywork',
-    link: 'nitinranganath',
-    href: 'https://www.polywork.com/nitinranganath',
-  },
 ];
 
 const ContactCode = () => {

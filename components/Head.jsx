@@ -10,15 +10,15 @@ const CustomHead = ({ title }) => {
       />
       <meta
         name="keywords"
-        content="francesco-vurchio, vscode-portfolio, francesco-vurchio-developer"
+        content="Francesco Vurchio, junior developer, software engineer, web developer, frontend developer"
       />
-      <meta property="og:title" content="Francesco vurchio's Portfolio" />
+      <meta property="og:title" content="Francesco Vurchio's Portfolio" />
       <meta
         property="og:description"
         content="A junior software developer building websites that you'd like to use."
       />
       <meta property="og:image" content="https://imgur.com/4zi5KkQ.png" />
-      <meta property="og:url" content="https://" />
+      <meta property="og:url" content="https://francesco-vscode.vercel.app/" />
       <meta name="twitter:card" content="summary_large_image" />
     </Head>
   );
