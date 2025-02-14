@@ -1,6 +1,6 @@
 # vscode-portfolio
 
-![vscode-portfolio screenshot](public/Screenshot 2025-02-14 at 12.03.14.png)
+![vscode-portfolio screenshot](./public/Screenshot%202025-02-14%20at%2012.03.14.png)
 
 A Visual Studio Code themed developer portfolio website built with Next.js and deployed on Vercel.
 
