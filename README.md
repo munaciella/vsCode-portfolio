@@ -1,26 +1,34 @@
 # vscode-portfolio
 
+![vscode-portfolio screenshot](public/Screenshot 2025-02-14 at 12.03.14.png)
 
 A Visual Studio Code themed developer portfolio website built with Next.js and deployed on Vercel.
 
+---
 
 ## Features Roadmap
 
-- [ ] Themes and customizations
+- **Themes and Customizations**
   - [x] GitHub Dark (default)
   - [ ] One Dark Pro
   - [x] Dracula
   - [x] Ayu
   - [x] Nord
-- [ ] Interactive custom terminal
+- [ ] Interactive Custom Terminal
 
-For other features and themes suggestions, please open an issue.
+For other features and theme suggestions, please [open an issue](https://github.com/munaciella/vsCode-portfolio/issues).
+
+---
 
 ## Environment Variables
 
-For fetching your articles from dev.to, create an `.env.local` file inside the project directory. Check the `.env.local.example` file for more information.
+To fetch your projects and github profile from github (or other services), create an `.env.local` file in the project directory with the github api token.
 
-## Running Development Server
+---
+
+## Running the Development Server
+
+Install dependencies and start the development server:
 
 ```bash
 npm run dev
@@ -30,5 +38,12 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-All VSCode related components can be found in the `components` folder. To change the content of the portfolio, check out the `pages` folder. To add or remove pages, modify `components/Sidebar.jsx` and `components/Tabsbar.jsx`.
+---
 
+## Project Structure
+-	Components:
+
+All VSCode-related components can be found in the components folder.
+
+-	Pages:
+The content of the portfolio is managed in the pages folder. To add or remove pages, modify components/Sidebar.jsx and components/Tabsbar.jsx.
