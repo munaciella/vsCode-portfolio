@@ -10,94 +10,162 @@
 
 /* Tags */
 .react {
-  border: 0.1rem solid rgb(97, 218, 251);
+  border: 0.1rem solid rgb(97, 218, 251); /* Light Blue */
 }
 .react:hover {
   background: rgba(97, 218, 251, 0.25);
 }
 
-.node {
-  border: 0.1rem solid rgb(131, 205, 41);
+.nodejs {
+  border: 0.1rem solid rgb(131, 205, 41); /* Bright Green */
 }
-.node:hover {
+.nodejs:hover {
   background: rgba(131, 205, 41, 0.25);
 }
 
 .mongodb {
-  border: 0.1rem solid rgb(67, 153, 52);
+  border: 0.1rem solid rgb(67, 153, 52); /* Forest Green */
 }
 .mongodb:hover {
   background: rgba(67, 153, 52, 0.25);
 }
 
 .firebase {
-  border: 0.1rem solid rgb(118, 74, 188);
+  border: 0.1rem solid rgb(118, 74, 188); /* Purple */
 }
 .firebase:hover {
   background: rgba(118, 74, 188, 0.25);
 }
 
 .cloudflare {
-  border: 0.1rem solid rgb(82, 143, 240);
+  border: 0.1rem solid rgb(82, 143, 240); /* Blue */
 }
 .cloudflare:hover {
   background: rgba(82, 143, 240, 0.25);
 }
 
 .supabase {
-  border: 0.1rem solid rgb(6, 108, 65);
+  border: 0.1rem solid rgb(6, 108, 65); /* Dark Green */
 }
 .supabase:hover {
   background: rgba(6, 108, 65, 0.25);
 }
 
 .threejs {
-  border: 0.1rem solid rgb(0, 209, 178);
+  border: 0.1rem solid rgb(0, 209, 178); /* Turquoise */
 }
 .threejs:hover {
-  background: rgb(0, 209, 178, 0.25);
+  background: rgba(0, 209, 178, 0.25);
 }
 
 .next {
-  border: 2px solid rgb(0, 112, 243);
+  border: 2px solid rgb(0, 112, 243); /* Strong Blue */
 }
 .next:hover {
   background: rgba(0, 112, 243, 0.25);
 }
 
 .tailwindcss {
-  border: 2px solid rgb(6, 182, 212);
+  border: 2px solid rgb(6, 182, 212); /* Cyan */
 }
 .tailwindcss:hover {
   background: rgba(6, 182, 212, 0.25);
 }
 
 .javascript {
-  border: 2px solid rgb(255, 65, 84);
+  border: 2px solid rgb(255, 65, 84); /* Vivid Red */
 }
 .javascript:hover {
   background: rgba(255, 65, 84, 0.25);
 }
 
 .typescript {
-  border: 2px solid rgb(45, 108, 214);
+  border: 2px solid rgb(45, 108, 214); /* Medium Blue */
 }
 .typescript:hover {
   background: rgba(45, 108, 214, 0.25);
 }
 
 .css {
-  border: 2px solid rgb(21, 114, 182);
+  border: 2px solid rgb(21, 114, 182); /* Dark Blue */
 }
 .css:hover {
   background: rgba(21, 114, 182, 0.25);
 }
 
+.stripe {
+  border: 2px solid rgb(255, 102, 0); /* Orange */
+}
+.stripe:hover {
+  background: rgba(255, 102, 0, 0.25);
+}
+
+.reactnative {
+  border: 2px solid rgb(102, 204, 255); /* Light Blue */
+}
+.reactnative:hover {
+  background: rgba(102, 204, 255, 0.25);
+}
+
+.AWS {
+  border: 2px solid rgb(255, 99, 0); /* Warm Orange */
+}
+.AWS:hover {
+  background: rgba(255, 99, 0, 0.25);
+}
+
+.spotifyAPI {
+  border: 2px solid rgb(30, 215, 96); /* Spotify Green */
+}
+.spotifyAPI:hover {
+  background: rgba(30, 215, 96, 0.25);
+}
+
+.jest {
+  border: 2px solid rgb(136, 84, 208); /* Purple */
+}
+.jest:hover {
+  background: rgba(136, 84, 208, 0.25);
+}
+
+.expressjs {
+  border: 2px solid rgb(64, 64, 64); /* Dark Grey */
+}
+.expressjs:hover {
+  background: rgba(64, 64, 64, 0.25);
+}
+
+.shadcnUI {
+  border: 2px solid rgb(255, 192, 203); /* Pink */
+}
+.shadcnUI:hover {
+  background: rgba(255, 192, 203, 0.25);
+}
+
 .liveblocks {
-  border: 2px solid rgb(0, 166, 107);
+  border: 2px solid rgb(255, 215, 0); /* Gold */
 }
 .liveblocks:hover {
-  background: rgba(0, 166, 107, 0.25);
+  background: rgba(255, 215, 0, 0.25);
 }
 
+.markdown {
+  border: 2px solid rgb(255, 255, 255); /* White */
+}
+.markdown:hover {
+  background: rgba(255, 255, 255, 0.25);
+}
 
+.vercel {
+  border: 2px solid rgb(218, 15, 194);
+}
+.vercel:hover {
+  background: rgba(218, 15, 194, 0.25);
+}
+
+.framermotion {
+  border: 2px solid rgb(255, 251, 0);
+}
+.framermotion:hover {
+  background: rgba(255, 251, 0, 0.25);
+}

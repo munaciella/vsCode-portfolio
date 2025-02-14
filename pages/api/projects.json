@@ -28,74 +28,83 @@
   },
   {
     "id": 4,
-    "name": "VSCode Portfolio",
+    "name": "Clarity Notes",
     "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on VSCode",
-    "tags": ["next", "css", "javascript"],
-    "source_code": "",
-    "demo": ""
+    "description": "A notes capturing web app, enabling seamless note-taking, and real-time collaboration.",
+    "tags": ["next", "tailwindcss", "typescript", "firebase", "cloudflare", "liveblocks"],
+    "source_code": "https://github.com/munaciella/clarity-notes-capturer",
+    "demo": "http://clarity-capture.com"
   },
   {
     "id": 5,
-    "name": "VSCode Portfolio",
+    "name": "Networking Platform",
     "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on VSCode",
-    "tags": ["next", "css", "javascript"],
-    "source_code": "",
-    "demo": ""
+    "description": "A networking platform to connect, interact, and engage through posts and comments.",
+    "tags": ["next", "tailwindcss", "typescript", "firebase", "cloudflare"],
+    "source_code": "https://github.com/munaciella/networking-platform-v2",
+    "demo": "https://networked.vercel.app/"
   },
   {
     "id": 6,
-    "name": "VSCode Portfolio",
+    "name": "Events Web App",
     "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on VSCode",
-    "tags": ["next", "css", "javascript"],
-    "source_code": "",
-    "demo": ""
+    "description": "A web app for managing events, including event booking, payment processing, and event creation.",
+    "tags": ["react", "supabase", "javascript", "tailwindcss", "stripe"],
+    "source_code": "https://github.com/munaciella/events-platform",
+    "demo": "https://event-sphere-web.netlify.app/"
   },
   {
     "id": 7,
-    "name": "VSCode Portfolio",
+    "name": "Social Media Music App",
     "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on VSCode",
-    "tags": ["next", "css", "javascript"],
-    "source_code": "",
-    "demo": ""
+    "description": "A social media app for music enthusiasts, enabling users to share music, connect, and discover new music.",
+    "tags": ["reactnative", "tailwindcss", "typescript", "AWS", "spotifyAPI"],
+    "source_code": "https://github.com/munaciella/gatefold-api",
+    "demo": "https://github.com/munaciella/gatefold-frontend"
   },
   {
     "id": 8,
-    "name": "VSCode Portfolio",
+    "name": "News Web App",
     "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on VSCode",
-    "tags": ["next", "css", "javascript"],
-    "source_code": "",
-    "demo": ""
+    "description": "A news interactive web app for exploring, voting and commenting on news articles.",
+    "tags": ["react", "nodejs", "javascript", "tailwindcss", "jest", "expressjs"],
+    "source_code": "https://github.com/munaciella/NC-news",
+    "demo": "https://munaciella.netlify.app/"
   },
   {
     "id": 9,
-    "name": "VSCode Portfolio",
+    "name": "DevUps Notes",
     "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on VSCode",
-    "tags": ["next", "css", "javascript"],
-    "source_code": "",
-    "demo": ""
+    "description": "A resourceful collection of notes and guides aimed at helping developers at the start of their journey.",
+    "tags": ["next", "markdown", "javascript", "vercel"],
+    "source_code": "https://github.com/munaciella/devups-notes",
+    "demo": "https://devups-notes.vercel.app/"
   },
   {
     "id": 10,
-    "name": "VSCode Portfolio",
+    "name": "Recipes Web App",
     "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on VSCode",
-    "tags": ["next", "css", "javascript"],
-    "source_code": "",
-    "demo": ""
+    "description": "A web app for viewing, share, comment and vote vegan recipes, including user registration and recipe suggestion.",
+    "tags": ["next", "tailwindcss", "typescript", "supabase", "shadcnUI"],
+    "source_code": "https://github.com/munaciella/recipes-website",
+    "demo": "https://velovegans.co.uk"
   },
   {
     "id": 11,
-    "name": "VSCode Portfolio",
+    "name": "Data Analytics API",
     "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on VSCode",
-    "tags": ["next", "css", "javascript"],
-    "source_code": "",
+    "description": "An API for processing and visualizing large datasets for analytics purposes and cryptocurrency trading.",
+    "tags": ["nodejs", "jest", "typescript", "expressjs"],
+    "source_code": "https://github.com/munaciella/data-analytics-api",
     "demo": ""
+  },
+  {
+    "id": 12,
+    "name": "Professional Portfolio",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "A professional portfolio showcasing my skills, experience, and projects.",
+    "tags": ["next", "tailwindcss", "typescript", "framermotion", "vercel"],
+    "source_code": "https://github.com/munaciella/portfolio-v2.0",
+    "demo": "https://francesco-dev.vercel.app/"
   }
 ]
